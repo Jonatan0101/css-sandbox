@@ -1,0 +1,15 @@
+body {
+  margin: 0 auto;
+  width: 80%;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-size: 450%;
+}
+
+p {
+  border: 5px solid grey;
+  padding: 30px;
+}
